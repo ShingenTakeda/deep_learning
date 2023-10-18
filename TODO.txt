@@ -1,0 +1,3 @@
+1.Multithread the layers
+2.Canonical matrices(where the original matrix is untouched until the layers are computed, so a data race doesnt occour)
+3.Queue the threads for each layer and epoch so snaffus dont happen
